@@ -6,11 +6,13 @@ The project aims to build an **embodied AI** platform that can progressively per
 
 ## Project status
 
-Ruben is in the **pre-hardware / bootstrap** phase. This repository currently contains introductory documentation only. It does not yet provide robot software, capability APIs, deployment services, or an installation procedure.
+Ruben is in the **hardware bring-up / verification** phase. The target MentorPi M1 hardware has been received, and the initial focus is on verifying the vendor-provided system, hardware interfaces, ROS 2 environment, and baseline robot functionality.
 
-The architecture is still evolving. Hardware integration and compatibility with the vendor-provided system remain to be verified on the target robot.
+This repository currently contains introductory documentation only. It does not yet provide robot software, capability APIs, deployment services, or an installation procedure.
 
-## Target hardware
+The architecture is still evolving. Hardware integration and compatibility with the vendor-provided system are now being verified on the target robot.
+
+## Initial hardware platform
 
 The initial target platform is the **Hiwonder MentorPi M1**, with:
 
